@@ -1,0 +1,16 @@
+D:\desafios-gft\desafio3\obj\Debug\net5.0\desafios-gft.csprojAssemblyReference.cache
+D:\desafios-gft\desafio3\obj\Debug\net5.0\desafios-gft.GeneratedMSBuildEditorConfig.editorconfig
+D:\desafios-gft\desafio3\obj\Debug\net5.0\desafios-gft.AssemblyInfoInputs.cache
+D:\desafios-gft\desafio3\obj\Debug\net5.0\desafios-gft.AssemblyInfo.cs
+D:\desafios-gft\desafio3\obj\Debug\net5.0\desafios-gft.csproj.CoreCompileInputs.cache
+D:\desafios-gft\desafio3\bin\Debug\net5.0\desafios-gft.exe
+D:\desafios-gft\desafio3\bin\Debug\net5.0\desafios-gft.deps.json
+D:\desafios-gft\desafio3\bin\Debug\net5.0\desafios-gft.runtimeconfig.json
+D:\desafios-gft\desafio3\bin\Debug\net5.0\desafios-gft.runtimeconfig.dev.json
+D:\desafios-gft\desafio3\bin\Debug\net5.0\desafios-gft.dll
+D:\desafios-gft\desafio3\bin\Debug\net5.0\ref\desafios-gft.dll
+D:\desafios-gft\desafio3\bin\Debug\net5.0\desafios-gft.pdb
+D:\desafios-gft\desafio3\obj\Debug\net5.0\desafios-gft.dll
+D:\desafios-gft\desafio3\obj\Debug\net5.0\ref\desafios-gft.dll
+D:\desafios-gft\desafio3\obj\Debug\net5.0\desafios-gft.pdb
+D:\desafios-gft\desafio3\obj\Debug\net5.0\desafios-gft.genruntimeconfig.cache
